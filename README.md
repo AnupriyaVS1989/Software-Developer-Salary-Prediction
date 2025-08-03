@@ -1,0 +1,1 @@
+This project explores salary prediction models using the 2024 Stack Overflow Developer Survey dataset, focusing specifically on software developers. The goal is to predict annual compensation based on features such as education level, years of experience, employment type, and more.
